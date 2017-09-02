@@ -1,0 +1,8 @@
+#テーマの設定
+theme : sky
+
+#ロゴアイコンの設定
+logo : ./masaya.jpg
+
+#スライドのページ数表示の設定
+slide-number: true
