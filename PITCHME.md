@@ -26,7 +26,7 @@ LINEの通知数を自作自演して、リア充になろうYO
 
 ### 今回はシェルでAPIを叩きます
 
-```shell
+``` bash
 #! /usr/bin/env bash
 curl -X POST \
 -H 'Content-Type:application/json' \
